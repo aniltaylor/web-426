@@ -1,2 +1,6 @@
-# web-425
-WEB425 Angular with TypeScript
+# WEB425 Angular with TypeScript
+
+## Contributors
+
+* Professor Krasso
+* April Yang
