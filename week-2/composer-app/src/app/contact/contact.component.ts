@@ -1,3 +1,11 @@
+/*
+ Title: contact.component.ts
+ Author: Professor Krasso
+ Modified By: April Yang
+ Date: 10/27/2022
+ Description:  Contact component ( Contact view)
+ */
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({

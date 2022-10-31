@@ -1,3 +1,11 @@
+/*
+ Title: about.component.ts
+ Author: Professor Krasso
+ Modified By: April Yang
+ Date: 10/27/2022
+ Description:  About component ( About view)
+ */
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({
