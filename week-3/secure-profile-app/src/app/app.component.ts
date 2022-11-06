@@ -2,8 +2,9 @@
    Title: app.component.ts
  Author: Professor Krasso
  Modified By: April Yang
- Date: 10/26/2022
- Description: App component
+ Date: 11/03/2022
+ Description: Exercise 3.3 - Passing Data to Routes, Part 2
+              App component
  */
 
 import { Component } from '@angular/core';

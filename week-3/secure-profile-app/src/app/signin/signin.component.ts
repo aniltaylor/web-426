@@ -1,3 +1,14 @@
+/*
+ Title: sign-in.component.ts
+ Author: Professor Krasso
+ Modified By: April Yang
+ Date: 11/03/2022
+ Description: Exercise 3.3 - Passing Data to Routes, Part 2
+              sign in component
+ */
+
+
+
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 

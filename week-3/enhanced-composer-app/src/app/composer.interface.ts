@@ -3,7 +3,8 @@
  * Author: Professor Krasso
  * Modified: April Yang
  * Date: 11/2/2022
- * Description: Interface for the Composer object
+ * Description: Exercise 3.2 - Passing Data to Routes, Part 1
+ *              Interface for the Composer object
  */
 
 

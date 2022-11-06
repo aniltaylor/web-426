@@ -2,8 +2,8 @@
  * Title: app-routing.module.ts
  * Author: Professor Krasso
  * Modified By: April Yang
- * Date: 10/27/2022
- * Description: Routing file
+ * Date: 11/02/2022
+ * Description: Exercise 3.2 - Passing Data to Routes, Part 1 - Routing file
  */
 
 

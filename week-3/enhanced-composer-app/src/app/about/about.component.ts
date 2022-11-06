@@ -2,8 +2,8 @@
  Title: about.component.ts
  Author: Professor Krasso
  Modified By: April Yang
- Date: 10/27/2022
- Description:  About component ( About view)
+ Date: 11/02/2022
+ Description: Exercise 3.2 - Passing Data to Routes, Part 1 - About component ( About view)
  */
 
 import { Component, OnInit } from '@angular/core';

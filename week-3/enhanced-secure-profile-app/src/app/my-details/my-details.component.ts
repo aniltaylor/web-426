@@ -2,8 +2,8 @@
    Title: my-details.component.ts
  Author: Professor Krasso
  Modified By: April Yang
- Date: 10/26/2022
- Description:  My details component (Details view)
+ Date: 11/03/2022
+ Description: Assignment 3.4 - Guarding Routes- My details component (Details view)
  */
 
 

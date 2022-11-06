@@ -5,7 +5,7 @@
  * Title: styles.css
  * Author: Professor Krasso
  * Modified By: April Yang
- * Date: 10/30/2022
+ * Date: 11/2/2022
  * Description: Global css style file
  */
 
@@ -13,4 +13,5 @@
 @import '../node_modules/bootstrap-icons/font/bootstrap-icons';
 
 /* https://www.techiediaries.com/angular-bootstrap/ */
-@import "~bootstrap/dist/css/bootstrap.css"
+@import "~bootstrap/dist/css/bootstrap.css";
+
